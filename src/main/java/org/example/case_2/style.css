@@ -17,3 +17,16 @@ footer {
     padding: 20px;
     color: white;
 }
+
+main {
+    position: relative;
+}
+
+main  aside {
+    width: 150px;
+    background-color:purple;
+    position: absolute;
+    top:0;
+    bottom:0;
+    margin:auto;
+}
